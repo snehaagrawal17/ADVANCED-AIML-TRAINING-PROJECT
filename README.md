@@ -1,13 +1,13 @@
-BSNL AIML Advanced Training — Telecom Data Analytics (BRBRAITT, Jabalpur)
+# BSNL AIML Advanced Training — Telecom Data Analytics (BRBRAITT, Jabalpur)
 
 A structured repository for notes, notebooks, datasets, dashboards, and capstone deliverables from the five-day BSNL AIML Advanced Training focused on telecom analytics, ML workflows, and cloud deployment practices at BRBRAITT, Jabalpur.
 
-Overview
+## Overview
 
 This repository captures daily learning artifacts across foundation recap, advanced data engineering, ML for telecom, cloud deployment with NLQ/NLG, prescriptive analytics, and a capstone integrating best practices. The program outcomes include hands-on proficiency with SQL, Python, ETL pipelines, ML model building and validation, BI dashboards, and awareness of deployment approaches on Azure, AWS, and GCP in telecom contexts.
 
 
-Training Modules
+## Training Modules
 
 Day 1: Foundation recap, telecom analytics basics, data types, SQL and Python refresh, ETL concepts, and KPIs for decision-making.
 
@@ -20,7 +20,7 @@ Day 4: Cloud deployment of ML models, Natural Language Query and Generation in B
 Day 5: Capstone integration, deployment and monitoring best practices, and senior data analyst role mapping in telecom environments.
 
 
-Tech Stack
+## Tech Stack
 
 Languages and Tooling: Python, SQL, and Jupyter for telecom-scale data workflows and experiments.
 
@@ -29,11 +29,11 @@ BI and Cloud: Power BI dashboards, plus awareness of Azure, AWS, and GCP platfor
 Methods: Regression, classification, clustering, model validation, NLQ/NLG, and prescriptive analytics aligned to telecom churn, fraud, and network KPIs.
 
 
-Execution
+## Execution
 
 Run day folders in sequence to follow the curriculum flow from data preparation and feature work through model validation and business storytelling.
 
-Usage
+## Usage
 
 Run the day-wise notebooks in order to build from data collection and cleaning to model validation and business interpretation of results.
 
@@ -41,12 +41,12 @@ Use the dashboards as references for translating analytical outputs into KPI-dri
 
 Adapt cloud deployment notes to your environment, documenting packaging, inference paths, monitoring hooks, and governance considerations.
 
-Capstone
+## Capstone
 
 The capstone consolidates data engineering, modeling, validation, and reporting into a realistic telecom scenario such as churn reduction or fraud detection with measurable KPIs and operational recommendations. Deliverables include a reproducible notebook, a concise model card, and a business summary linking metrics to actions and expected impact.
 
 
-Learning Outcomes
+## Learning Outcomes
 
 Design and automate ETL workflows while addressing governance, privacy, and scale challenges typical of telecom data.
 
@@ -57,7 +57,7 @@ Build dashboards and prescriptive narratives that connect model outputs to netwo
 Understand cloud deployment patterns, integrate NLQ/NLG into BI, and recognize the role of real-time analytics in operations.
 
 
-Acknowledgements
+## Acknowledgements
 
 Thanks to BSNL and BRBRAITT, Jabalpur for hosting and enabling an industry-grade training ecosystem with advanced telecom and digital skilling initiatives.
 
